@@ -29,11 +29,10 @@ Gameplay chinh: di chuyen, chien dau voi quai Skeleton, nhat loot, nang cap vu k
 
 ### Chien Dau
 
-- `Q`: normal skill attack.
-- `E` (giu >= 0.5s): charge attack.
+- `Space`: normal skill attack.
+- `E` (giu >= 0,2s): charge attack.
 - `R`: full attack.
 - `J` hoac `Left Mouse`: tan cong vu khi dang equip.
-- `1/2/3`: doi weapon slot.
 
 ### Tuong Tac
 
