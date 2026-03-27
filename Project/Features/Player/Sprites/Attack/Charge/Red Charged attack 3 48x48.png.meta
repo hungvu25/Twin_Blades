@@ -1,0 +1,1575 @@
+fileFormatVersion: 2
+guid: b80519044d0b0cd478b0b09da58d205a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5468437105695450947
+    second: Red Charged attack 3 48x48_0
+  - first:
+      213: 1814722131307044883
+    second: Red Charged attack 3 48x48_1
+  - first:
+      213: 5481148460122804946
+    second: Red Charged attack 3 48x48_2
+  - first:
+      213: 2061414294064459624
+    second: Red Charged attack 3 48x48_3
+  - first:
+      213: -626446020804362986
+    second: Red Charged attack 3 48x48_4
+  - first:
+      213: -7422571248081006874
+    second: Red Charged attack 3 48x48_5
+  - first:
+      213: -7357856719223362758
+    second: Red Charged attack 3 48x48_6
+  - first:
+      213: -8398186283258007793
+    second: Red Charged attack 3 48x48_7
+  - first:
+      213: 6617482602170769401
+    second: Red Charged attack 3 48x48_8
+  - first:
+      213: -1578655637510756698
+    second: Red Charged attack 3 48x48_9
+  - first:
+      213: -3506018744100414541
+    second: Red Charged attack 3 48x48_10
+  - first:
+      213: 5547029787510025755
+    second: Red Charged attack 3 48x48_11
+  - first:
+      213: 2388551063379382419
+    second: Red Charged attack 3 48x48_12
+  - first:
+      213: -1701516446941955327
+    second: Red Charged attack 3 48x48_13
+  - first:
+      213: 8610346869244632936
+    second: Red Charged attack 3 48x48_14
+  - first:
+      213: -86304610814441742
+    second: Red Charged attack 3 48x48_15
+  - first:
+      213: 7212332914642441678
+    second: Red Charged attack 3 48x48_16
+  - first:
+      213: 6707771246000453570
+    second: Red Charged attack 3 48x48_17
+  - first:
+      213: 8522789710831720285
+    second: Red Charged attack 3 48x48_18
+  - first:
+      213: -8934803042841975135
+    second: Red Charged attack 3 48x48_19
+  - first:
+      213: -5636812670386261528
+    second: Red Charged attack 3 48x48_20
+  - first:
+      213: 2926640038099331958
+    second: Red Charged attack 3 48x48_21
+  - first:
+      213: 3766176132953617904
+    second: Red Charged attack 3 48x48_22
+  - first:
+      213: -349359738001712438
+    second: Red Charged attack 3 48x48_23
+  - first:
+      213: -377369586104511922
+    second: Red Charged attack 3 48x48_24
+  - first:
+      213: 7992234952075765303
+    second: Red Charged attack 3 48x48_25
+  - first:
+      213: 8430386228094622480
+    second: Red Charged attack 3 48x48_26
+  - first:
+      213: 4235886363976482497
+    second: Red Charged attack 3 48x48_27
+  - first:
+      213: 4630835351036670392
+    second: Red Charged attack 3 48x48_28
+  - first:
+      213: -9189255766966255728
+    second: Red Charged attack 3 48x48_29
+  - first:
+      213: -1480331735974108149
+    second: Red Charged attack 3 48x48_30
+  - first:
+      213: -4234279217814547263
+    second: Red Charged attack 3 48x48_31
+  - first:
+      213: 8808309929599848940
+    second: Red Charged attack 3 48x48_32
+  - first:
+      213: 4970228000724483626
+    second: Red Charged attack 3 48x48_33
+  - first:
+      213: 5863520768484622537
+    second: Red Charged attack 3 48x48_34
+  - first:
+      213: -8509126766682598068
+    second: Red Charged attack 3 48x48_35
+  - first:
+      213: 5446314654813133143
+    second: Red Charged attack 3 48x48_36
+  - first:
+      213: -2083304121445288337
+    second: Red Charged attack 3 48x48_37
+  - first:
+      213: 7040831668280237203
+    second: Red Charged attack 3 48x48_38
+  - first:
+      213: 5472460402362904443
+    second: Red Charged attack 3 48x48_39
+  - first:
+      213: -7577098967491004105
+    second: Red Charged attack 3 48x48_40
+  - first:
+      213: -3426300498827963965
+    second: Red Charged attack 3 48x48_41
+  - first:
+      213: 2648306285044491336
+    second: Red Charged attack 3 48x48_42
+  - first:
+      213: -688759487836053142
+    second: Red Charged attack 3 48x48_43
+  - first:
+      213: 2906388953242591087
+    second: Red Charged attack 3 48x48_44
+  - first:
+      213: -1565634249949322998
+    second: Red Charged attack 3 48x48_45
+  - first:
+      213: -3430654194363320657
+    second: Red Charged attack 3 48x48_46
+  - first:
+      213: 1980833638199891438
+    second: Red Charged attack 3 48x48_47
+  - first:
+      213: 6268955387718104378
+    second: Red Charged attack 3 48x48_48
+  - first:
+      213: 1468479181217270099
+    second: Red Charged attack 3 48x48_49
+  - first:
+      213: 4803291244030388403
+    second: Red Charged attack 3 48x48_50
+  - first:
+      213: -7606993614575166968
+    second: Red Charged attack 3 48x48_51
+  - first:
+      213: -4155594143013490518
+    second: Red Charged attack 3 48x48_52
+  - first:
+      213: 1183598544967548324
+    second: Red Charged attack 3 48x48_53
+  - first:
+      213: -3935810242346967640
+    second: Red Charged attack 3 48x48_54
+  - first:
+      213: -8282609165967337282
+    second: Red Charged attack 3 48x48_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347ea89139ac3eb40800000000000000
+      internalID: 5468437105695450947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310a892e9203f2910800000000000000
+      internalID: 1814722131307044883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d29cceeb73f01c40800000000000000
+      internalID: 5481148460122804946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fef9ce06d9b9c10800000000000000
+      internalID: 2061414294064459624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dbff2c9aa6e47f0800000000000000
+      internalID: -626446020804362986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee8a1eb6cabdf890800000000000000
+      internalID: -7422571248081006874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b68762c44a3e990800000000000000
+      internalID: -7357856719223362758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f29d42216a37b80800000000000000
+      internalID: -8398186283258007793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff57b1ad5506db50800000000000000
+      internalID: 6617482602170769401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6e08fcf0d771ae0800000000000000
+      internalID: -1578655637510756698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb9806278e185fc0800000000000000
+      internalID: -3506018744100414541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1eab0bc3320bfc40800000000000000
+      internalID: 5547029787510025755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3901c9c7986d52120800000000000000
+      internalID: 2388551063379382419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b3a887ecff268e0800000000000000
+      internalID: -1701516446941955327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f1936abd81e7770800000000000000
+      internalID: 8610346869244632936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f64de9e9626dcef0800000000000000
+      internalID: -86304610814441742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5de13c29a571460800000000000000
+      internalID: 7212332914642441678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7bf60b86ac61d50800000000000000
+      internalID: 6707771246000453570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d579a791618074670800000000000000
+      internalID: 8522789710831720285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6235d98f3310480800000000000000
+      internalID: -8934803042841975135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1b43ccdb406c1b0800000000000000
+      internalID: -5636812670386261528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ba850db938d9820800000000000000
+      internalID: 2926640038099331958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f531462d35244430800000000000000
+      internalID: 3766176132953617904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca95955b23d62bf0800000000000000
+      internalID: -349359738001712438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42543f5c5053caf0800000000000000
+      internalID: -377369586104511922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_25
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736efef185f1aee60800000000000000
+      internalID: 7992234952075765303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bdcecbb9fbef470800000000000000
+      internalID: 8430386228094622480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_27
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce3db19434e8ca30800000000000000
+      internalID: 4235886363976482497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1bcdf6738044040800000000000000
+      internalID: 4630835351036670392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f34c31194397080800000000000000
+      internalID: -9189255766966255728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04a687112ec47be0800000000000000
+      internalID: -1480331735974108149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4585e4c71dc35c0800000000000000
+      internalID: -4234279217814547263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1585966376d3a70800000000000000
+      internalID: 8808309929599848940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ef1e3880cc9f440800000000000000
+      internalID: 4970228000724483626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0c6aa92196f5150800000000000000
+      internalID: 5863520768484622537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c459d1bf94289e980800000000000000
+      internalID: -8509126766682598068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759142f9252359b40800000000000000
+      internalID: 5446314654813133143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66752a70fd9613e0800000000000000
+      internalID: -2083304121445288337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c1a2f291f06b160800000000000000
+      internalID: 7040831668280237203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f6b3addb512fb40800000000000000
+      internalID: 5472460402362904443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73938be52acb8d690800000000000000
+      internalID: -7577098967491004105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_41
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c19d9189d55370d0800000000000000
+      internalID: -3426300498827963965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844e280f88ca0c420800000000000000
+      internalID: 2648306285044491336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a612adf15e80176f0800000000000000
+      internalID: -688759487836053142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fd421ba51955820800000000000000
+      internalID: 2906388953242591087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01e59bd1ffb54ae0800000000000000
+      internalID: -1565634249949322998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa635c5cf2ed360d0800000000000000
+      internalID: -3430654194363320657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee59c04f2b55d7b10800000000000000
+      internalID: 1980833638199891438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3575b5f5bdcff650800000000000000
+      internalID: 6268955387718104378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3590384f806116410800000000000000
+      internalID: 1468479181217270099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8ec2100f7b8a240800000000000000
+      internalID: 4803291244030388403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_51
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a15927c978e6690800000000000000
+      internalID: -7606993614575166968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0bcfae42d5456c0800000000000000
+      internalID: -4155594143013490518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adb57d0b9cfc6010800000000000000
+      internalID: 1183598544967548324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad9099ff613169c0800000000000000
+      internalID: -3935810242346967640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Charged attack 3 48x48_55
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb85f11c8d24e0d80800000000000000
+      internalID: -8282609165967337282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 80b976dcfc62bab4ba0523971b70c2a2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.33051490783691409},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Red Charged attack 3 48x48_0: 5468437105695450947
+      Red Charged attack 3 48x48_1: 1814722131307044883
+      Red Charged attack 3 48x48_10: -3506018744100414541
+      Red Charged attack 3 48x48_11: 5547029787510025755
+      Red Charged attack 3 48x48_12: 2388551063379382419
+      Red Charged attack 3 48x48_13: -1701516446941955327
+      Red Charged attack 3 48x48_14: 8610346869244632936
+      Red Charged attack 3 48x48_15: -86304610814441742
+      Red Charged attack 3 48x48_16: 7212332914642441678
+      Red Charged attack 3 48x48_17: 6707771246000453570
+      Red Charged attack 3 48x48_18: 8522789710831720285
+      Red Charged attack 3 48x48_19: -8934803042841975135
+      Red Charged attack 3 48x48_2: 5481148460122804946
+      Red Charged attack 3 48x48_20: -5636812670386261528
+      Red Charged attack 3 48x48_21: 2926640038099331958
+      Red Charged attack 3 48x48_22: 3766176132953617904
+      Red Charged attack 3 48x48_23: -349359738001712438
+      Red Charged attack 3 48x48_24: -377369586104511922
+      Red Charged attack 3 48x48_25: 7992234952075765303
+      Red Charged attack 3 48x48_26: 8430386228094622480
+      Red Charged attack 3 48x48_27: 4235886363976482497
+      Red Charged attack 3 48x48_28: 4630835351036670392
+      Red Charged attack 3 48x48_29: -9189255766966255728
+      Red Charged attack 3 48x48_3: 2061414294064459624
+      Red Charged attack 3 48x48_30: -1480331735974108149
+      Red Charged attack 3 48x48_31: -4234279217814547263
+      Red Charged attack 3 48x48_32: 8808309929599848940
+      Red Charged attack 3 48x48_33: 4970228000724483626
+      Red Charged attack 3 48x48_34: 5863520768484622537
+      Red Charged attack 3 48x48_35: -8509126766682598068
+      Red Charged attack 3 48x48_36: 5446314654813133143
+      Red Charged attack 3 48x48_37: -2083304121445288337
+      Red Charged attack 3 48x48_38: 7040831668280237203
+      Red Charged attack 3 48x48_39: 5472460402362904443
+      Red Charged attack 3 48x48_4: -626446020804362986
+      Red Charged attack 3 48x48_40: -7577098967491004105
+      Red Charged attack 3 48x48_41: -3426300498827963965
+      Red Charged attack 3 48x48_42: 2648306285044491336
+      Red Charged attack 3 48x48_43: -688759487836053142
+      Red Charged attack 3 48x48_44: 2906388953242591087
+      Red Charged attack 3 48x48_45: -1565634249949322998
+      Red Charged attack 3 48x48_46: -3430654194363320657
+      Red Charged attack 3 48x48_47: 1980833638199891438
+      Red Charged attack 3 48x48_48: 6268955387718104378
+      Red Charged attack 3 48x48_49: 1468479181217270099
+      Red Charged attack 3 48x48_5: -7422571248081006874
+      Red Charged attack 3 48x48_50: 4803291244030388403
+      Red Charged attack 3 48x48_51: -7606993614575166968
+      Red Charged attack 3 48x48_52: -4155594143013490518
+      Red Charged attack 3 48x48_53: 1183598544967548324
+      Red Charged attack 3 48x48_54: -3935810242346967640
+      Red Charged attack 3 48x48_55: -8282609165967337282
+      Red Charged attack 3 48x48_6: -7357856719223362758
+      Red Charged attack 3 48x48_7: -8398186283258007793
+      Red Charged attack 3 48x48_8: 6617482602170769401
+      Red Charged attack 3 48x48_9: -1578655637510756698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

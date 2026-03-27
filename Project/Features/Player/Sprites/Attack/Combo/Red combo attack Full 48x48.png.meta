@@ -1,0 +1,2095 @@
+fileFormatVersion: 2
+guid: 2984f916bc7b28b46a3010600a76bddd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7254679166584176813
+    second: Red combo attack Full 48x48_0
+  - first:
+      213: -4865147876696897308
+    second: Red combo attack Full 48x48_1
+  - first:
+      213: 5843100684158642401
+    second: Red combo attack Full 48x48_2
+  - first:
+      213: 3938009075652493443
+    second: Red combo attack Full 48x48_3
+  - first:
+      213: 2566021026220710675
+    second: Red combo attack Full 48x48_4
+  - first:
+      213: 9051031867395920525
+    second: Red combo attack Full 48x48_5
+  - first:
+      213: 4304456718511176320
+    second: Red combo attack Full 48x48_6
+  - first:
+      213: 6663117764010218366
+    second: Red combo attack Full 48x48_7
+  - first:
+      213: -2290764264360678824
+    second: Red combo attack Full 48x48_8
+  - first:
+      213: -2993310391240965965
+    second: Red combo attack Full 48x48_9
+  - first:
+      213: -2342150640185340060
+    second: Red combo attack Full 48x48_10
+  - first:
+      213: 3719618771389533377
+    second: Red combo attack Full 48x48_11
+  - first:
+      213: 2490855769521388711
+    second: Red combo attack Full 48x48_12
+  - first:
+      213: -1730192303529021658
+    second: Red combo attack Full 48x48_13
+  - first:
+      213: -4058560922660627942
+    second: Red combo attack Full 48x48_14
+  - first:
+      213: 5030671520546488992
+    second: Red combo attack Full 48x48_15
+  - first:
+      213: -3081244990438730143
+    second: Red combo attack Full 48x48_16
+  - first:
+      213: 5694066862792471309
+    second: Red combo attack Full 48x48_17
+  - first:
+      213: -7484393915672787373
+    second: Red combo attack Full 48x48_18
+  - first:
+      213: -5121193059640919198
+    second: Red combo attack Full 48x48_19
+  - first:
+      213: -5855176200119021013
+    second: Red combo attack Full 48x48_20
+  - first:
+      213: -6511225019980928182
+    second: Red combo attack Full 48x48_21
+  - first:
+      213: -8425859491364794215
+    second: Red combo attack Full 48x48_22
+  - first:
+      213: 3570406462045052929
+    second: Red combo attack Full 48x48_23
+  - first:
+      213: 6827347268033632268
+    second: Red combo attack Full 48x48_24
+  - first:
+      213: 6312930867372368812
+    second: Red combo attack Full 48x48_25
+  - first:
+      213: -1191237543693844116
+    second: Red combo attack Full 48x48_26
+  - first:
+      213: -5895806689127030965
+    second: Red combo attack Full 48x48_27
+  - first:
+      213: 997001222948120936
+    second: Red combo attack Full 48x48_28
+  - first:
+      213: -6249341387113564119
+    second: Red combo attack Full 48x48_29
+  - first:
+      213: -5197335871776730427
+    second: Red combo attack Full 48x48_30
+  - first:
+      213: 4371558394808608248
+    second: Red combo attack Full 48x48_31
+  - first:
+      213: 5542703355724898930
+    second: Red combo attack Full 48x48_32
+  - first:
+      213: 1259478753037375989
+    second: Red combo attack Full 48x48_33
+  - first:
+      213: -6387387308121434034
+    second: Red combo attack Full 48x48_34
+  - first:
+      213: 4119166526365152533
+    second: Red combo attack Full 48x48_35
+  - first:
+      213: 3077999359002528580
+    second: Red combo attack Full 48x48_36
+  - first:
+      213: -6348969684109590680
+    second: Red combo attack Full 48x48_37
+  - first:
+      213: -5743457984390190705
+    second: Red combo attack Full 48x48_38
+  - first:
+      213: 4145937005217802725
+    second: Red combo attack Full 48x48_39
+  - first:
+      213: -2218872223394433726
+    second: Red combo attack Full 48x48_40
+  - first:
+      213: 6112478682697559256
+    second: Red combo attack Full 48x48_41
+  - first:
+      213: -6207196857523305589
+    second: Red combo attack Full 48x48_42
+  - first:
+      213: -1482012225653333250
+    second: Red combo attack Full 48x48_43
+  - first:
+      213: -376418116121673248
+    second: Red combo attack Full 48x48_44
+  - first:
+      213: -7440650734741805462
+    second: Red combo attack Full 48x48_45
+  - first:
+      213: -223726826336680028
+    second: Red combo attack Full 48x48_46
+  - first:
+      213: -3254461001501358121
+    second: Red combo attack Full 48x48_47
+  - first:
+      213: -1627638486942424208
+    second: Red combo attack Full 48x48_48
+  - first:
+      213: -5219315138470118289
+    second: Red combo attack Full 48x48_49
+  - first:
+      213: -5006998714318084233
+    second: Red combo attack Full 48x48_50
+  - first:
+      213: 7060037510858608553
+    second: Red combo attack Full 48x48_51
+  - first:
+      213: 3816673183843471721
+    second: Red combo attack Full 48x48_52
+  - first:
+      213: -844325084218476220
+    second: Red combo attack Full 48x48_53
+  - first:
+      213: -8382799176912659400
+    second: Red combo attack Full 48x48_54
+  - first:
+      213: -5565574592572324480
+    second: Red combo attack Full 48x48_55
+  - first:
+      213: 4548735419279168696
+    second: Red combo attack Full 48x48_56
+  - first:
+      213: 5875227201345463507
+    second: Red combo attack Full 48x48_57
+  - first:
+      213: -2783458060697628199
+    second: Red combo attack Full 48x48_58
+  - first:
+      213: 5354746829214075727
+    second: Red combo attack Full 48x48_59
+  - first:
+      213: 124311464883527755
+    second: Red combo attack Full 48x48_60
+  - first:
+      213: -4786304394752665395
+    second: Red combo attack Full 48x48_61
+  - first:
+      213: -928003603988751885
+    second: Red combo attack Full 48x48_62
+  - first:
+      213: -2511891823376415445
+    second: Red combo attack Full 48x48_63
+  - first:
+      213: 6828563731775928411
+    second: Red combo attack Full 48x48_64
+  - first:
+      213: -7848589656491340475
+    second: Red combo attack Full 48x48_65
+  - first:
+      213: 8890078800426867648
+    second: Red combo attack Full 48x48_66
+  - first:
+      213: 1116049124872273386
+    second: Red combo attack Full 48x48_67
+  - first:
+      213: -3970758631879690347
+    second: Red combo attack Full 48x48_68
+  - first:
+      213: 1705675906996832820
+    second: Red combo attack Full 48x48_69
+  - first:
+      213: 2850389871013517222
+    second: Red combo attack Full 48x48_70
+  - first:
+      213: -7977441270999825373
+    second: Red combo attack Full 48x48_71
+  - first:
+      213: -5369596896217455358
+    second: Red combo attack Full 48x48_72
+  - first:
+      213: 318149353996882886
+    second: Red combo attack Full 48x48_73
+  - first:
+      213: -8873901452952081740
+    second: Red combo attack Full 48x48_74
+  - first:
+      213: -8269324058536572842
+    second: Red combo attack Full 48x48_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da04dabd34ccda460800000000000000
+      internalID: 7254679166584176813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e84cb568c58b7cb0800000000000000
+      internalID: -4865147876696897308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e82e1a3d1dd61150800000000000000
+      internalID: 5843100684158642401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380088cc36e96a630800000000000000
+      internalID: 3938009075652493443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b911a27865c9320800000000000000
+      internalID: 2566021026220710675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82dfda6789bb9d70800000000000000
+      internalID: 9051031867395920525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08af6e954908cbb30800000000000000
+      internalID: 4304456718511176320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e739c6cbd46287c50800000000000000
+      internalID: 6663117764010218366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a6f9ed9029530e0800000000000000
+      internalID: -2290764264360678824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0c893fe00a576d0800000000000000
+      internalID: -2993310391240965965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f8c49e6620f7fd0800000000000000
+      internalID: -2342150640185340060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc4c80b09dbe9330800000000000000
+      internalID: 3719618771389533377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acfd01102c419220800000000000000
+      internalID: 2490855769521388711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fa903544f1df7e0800000000000000
+      internalID: -1730192303529021658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a188118581da7c0800000000000000
+      internalID: -4058560922660627942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a209d3281980d540800000000000000
+      internalID: 5030671520546488992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16692fe91083d35d0800000000000000
+      internalID: -3081244990438730143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03711ca4a3650f40800000000000000
+      internalID: 5694066862792471309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3568a314367122890800000000000000
+      internalID: -7484393915672787373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b38e5ab0edde8b0800000000000000
+      internalID: -5121193059640919198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22959e944c3ebea0800000000000000
+      internalID: -5855176200119021013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ba66f975b73a5a0800000000000000
+      internalID: -6511225019980928182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99019d94f65511b80800000000000000
+      internalID: -8425859491364794215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10064f9a2c1ac8130800000000000000
+      internalID: 3570406462045052929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08d06dda2c9fbe50800000000000000
+      internalID: 6827347268033632268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca324513d290c9750800000000000000
+      internalID: 6312930867372368812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c610505f3cfd77fe0800000000000000
+      internalID: -1191237543693844116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f1636bd03ed2ea0800000000000000
+      internalID: -5895806689127030965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869e376745f06dd00800000000000000
+      internalID: 997001222948120936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928f2fc6e11e549a0800000000000000
+      internalID: -6249341387113564119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_30
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c25a50bf8a5fd7b0800000000000000
+      internalID: -5197335871776730427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5a175d235eaac30800000000000000
+      internalID: 4371558394808608248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_32
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2722955e553abec40800000000000000
+      internalID: 5542703355724898930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_33
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9d1fcb0419a7110800000000000000
+      internalID: 1259478753037375989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_34
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e485598c5117b57a0800000000000000
+      internalID: -6387387308121434034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515bca6a1283a2930800000000000000
+      internalID: 4119166526365152533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_36
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bc93ceb1047ba20800000000000000
+      internalID: 3077999359002528580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_37
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f7ce8e5bde3e7a0800000000000000
+      internalID: -6348969684109590680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89aa02b4632b40b0800000000000000
+      internalID: -5743457984390190705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e967297db3598930800000000000000
+      internalID: 4145937005217802725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245f79a087bf431e0800000000000000
+      internalID: -2218872223394433726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dce5530af2e3d450800000000000000
+      internalID: 6112478682697559256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b830760685b9bd9a0800000000000000
+      internalID: -6207196857523305589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2a5299bb5de6be0800000000000000
+      internalID: -1482012225653333250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1cb8db7b1b6caf0800000000000000
+      internalID: -376418116121673248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6627f9349f7db890800000000000000
+      internalID: -7440650734741805462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a70a7503a925ecf0800000000000000
+      internalID: -223726826336680028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_47
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7462646f4d5d2d0800000000000000
+      internalID: -3254461001501358121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073ea037b677969e0800000000000000
+      internalID: -1627638486942424208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_49
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c7ba0e8844197b0800000000000000
+      internalID: -5219315138470118289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777ab329231938ab0800000000000000
+      internalID: -5006998714318084233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af09afd5ba4af160800000000000000
+      internalID: 7060037510858608553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_52
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961dfb20a0c87f430800000000000000
+      internalID: 3816673183843471721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_53
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449b4303fca5844f0800000000000000
+      internalID: -844325084218476220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c1fa400905aab80800000000000000
+      internalID: -8382799176912659400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_55
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08589ce456b13c2b0800000000000000
+      internalID: -5565574592572324480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_56
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b45f5b73ca502f30800000000000000
+      internalID: 4548735419279168696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4a8e6e200098150800000000000000
+      internalID: 5875227201345463507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d19be424ab2f59d0800000000000000
+      internalID: -2783458060697628199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b4479ded1ef4a40800000000000000
+      internalID: 5354746829214075727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4024e16e94a9b100800000000000000
+      internalID: 124311464883527755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc850eb0381a39db0800000000000000
+      internalID: -4786304394752665395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9d7f193a11f13f0800000000000000
+      internalID: -928003603988751885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25c079f1b7f32dd0800000000000000
+      internalID: -2511891823376415445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58be96e88ee3ce50800000000000000
+      internalID: 6828563731775928411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d47018a45341390800000000000000
+      internalID: -7848589656491340475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb9cac3197ef5b70800000000000000
+      internalID: 8890078800426867648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_67
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedb5e714c00d7f00800000000000000
+      internalID: 1116049124872273386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597bef1ff0805e8c0800000000000000
+      internalID: -3970758631879690347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_69
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a0d7a4337cba710800000000000000
+      internalID: 1705675906996832820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_70
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7d1255c7e9e8720800000000000000
+      internalID: 2850389871013517222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_71
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324c3892e6f6a4190800000000000000
+      internalID: -7977441270999825373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_72
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2052bed721c5b75b0800000000000000
+      internalID: -5369596896217455358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_73
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3118ed62b4a6400800000000000000
+      internalID: 318149353996882886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_74
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bae7fcf4a199d480800000000000000
+      internalID: -8873901452952081740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red combo attack Full 48x48_75
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658065ed4957d3d80800000000000000
+      internalID: -8269324058536572842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 59e90c22ea3a4944395262563cd7c31a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.33051490783691409},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Red combo attack Full 48x48_0: 7254679166584176813
+      Red combo attack Full 48x48_1: -4865147876696897308
+      Red combo attack Full 48x48_10: -2342150640185340060
+      Red combo attack Full 48x48_11: 3719618771389533377
+      Red combo attack Full 48x48_12: 2490855769521388711
+      Red combo attack Full 48x48_13: -1730192303529021658
+      Red combo attack Full 48x48_14: -4058560922660627942
+      Red combo attack Full 48x48_15: 5030671520546488992
+      Red combo attack Full 48x48_16: -3081244990438730143
+      Red combo attack Full 48x48_17: 5694066862792471309
+      Red combo attack Full 48x48_18: -7484393915672787373
+      Red combo attack Full 48x48_19: -5121193059640919198
+      Red combo attack Full 48x48_2: 5843100684158642401
+      Red combo attack Full 48x48_20: -5855176200119021013
+      Red combo attack Full 48x48_21: -6511225019980928182
+      Red combo attack Full 48x48_22: -8425859491364794215
+      Red combo attack Full 48x48_23: 3570406462045052929
+      Red combo attack Full 48x48_24: 6827347268033632268
+      Red combo attack Full 48x48_25: 6312930867372368812
+      Red combo attack Full 48x48_26: -1191237543693844116
+      Red combo attack Full 48x48_27: -5895806689127030965
+      Red combo attack Full 48x48_28: 997001222948120936
+      Red combo attack Full 48x48_29: -6249341387113564119
+      Red combo attack Full 48x48_3: 3938009075652493443
+      Red combo attack Full 48x48_30: -5197335871776730427
+      Red combo attack Full 48x48_31: 4371558394808608248
+      Red combo attack Full 48x48_32: 5542703355724898930
+      Red combo attack Full 48x48_33: 1259478753037375989
+      Red combo attack Full 48x48_34: -6387387308121434034
+      Red combo attack Full 48x48_35: 4119166526365152533
+      Red combo attack Full 48x48_36: 3077999359002528580
+      Red combo attack Full 48x48_37: -6348969684109590680
+      Red combo attack Full 48x48_38: -5743457984390190705
+      Red combo attack Full 48x48_39: 4145937005217802725
+      Red combo attack Full 48x48_4: 2566021026220710675
+      Red combo attack Full 48x48_40: -2218872223394433726
+      Red combo attack Full 48x48_41: 6112478682697559256
+      Red combo attack Full 48x48_42: -6207196857523305589
+      Red combo attack Full 48x48_43: -1482012225653333250
+      Red combo attack Full 48x48_44: -376418116121673248
+      Red combo attack Full 48x48_45: -7440650734741805462
+      Red combo attack Full 48x48_46: -223726826336680028
+      Red combo attack Full 48x48_47: -3254461001501358121
+      Red combo attack Full 48x48_48: -1627638486942424208
+      Red combo attack Full 48x48_49: -5219315138470118289
+      Red combo attack Full 48x48_5: 9051031867395920525
+      Red combo attack Full 48x48_50: -5006998714318084233
+      Red combo attack Full 48x48_51: 7060037510858608553
+      Red combo attack Full 48x48_52: 3816673183843471721
+      Red combo attack Full 48x48_53: -844325084218476220
+      Red combo attack Full 48x48_54: -8382799176912659400
+      Red combo attack Full 48x48_55: -5565574592572324480
+      Red combo attack Full 48x48_56: 4548735419279168696
+      Red combo attack Full 48x48_57: 5875227201345463507
+      Red combo attack Full 48x48_58: -2783458060697628199
+      Red combo attack Full 48x48_59: 5354746829214075727
+      Red combo attack Full 48x48_6: 4304456718511176320
+      Red combo attack Full 48x48_60: 124311464883527755
+      Red combo attack Full 48x48_61: -4786304394752665395
+      Red combo attack Full 48x48_62: -928003603988751885
+      Red combo attack Full 48x48_63: -2511891823376415445
+      Red combo attack Full 48x48_64: 6828563731775928411
+      Red combo attack Full 48x48_65: -7848589656491340475
+      Red combo attack Full 48x48_66: 8890078800426867648
+      Red combo attack Full 48x48_67: 1116049124872273386
+      Red combo attack Full 48x48_68: -3970758631879690347
+      Red combo attack Full 48x48_69: 1705675906996832820
+      Red combo attack Full 48x48_7: 6663117764010218366
+      Red combo attack Full 48x48_70: 2850389871013517222
+      Red combo attack Full 48x48_71: -7977441270999825373
+      Red combo attack Full 48x48_72: -5369596896217455358
+      Red combo attack Full 48x48_73: 318149353996882886
+      Red combo attack Full 48x48_74: -8873901452952081740
+      Red combo attack Full 48x48_75: -8269324058536572842
+      Red combo attack Full 48x48_8: -2290764264360678824
+      Red combo attack Full 48x48_9: -2993310391240965965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

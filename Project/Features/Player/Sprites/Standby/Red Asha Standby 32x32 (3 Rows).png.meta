@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: aa0f8191fc4a4a94ab7d62bbd33a4efb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4229846290927786072
+    second: Red Asha Standby 32x32 (3 Rows)_0
+  - first:
+      213: 5040735559656991231
+    second: Red Asha Standby 32x32 (3 Rows)_1
+  - first:
+      213: 4706172076139861679
+    second: Red Asha Standby 32x32 (3 Rows)_2
+  - first:
+      213: -6758850699379806859
+    second: Red Asha Standby 32x32 (3 Rows)_3
+  - first:
+      213: 9079006943672247792
+    second: Red Asha Standby 32x32 (3 Rows)_4
+  - first:
+      213: -353748555969446445
+    second: Red Asha Standby 32x32 (3 Rows)_5
+  - first:
+      213: 7754121277291253866
+    second: Red Asha Standby 32x32 (3 Rows)_6
+  - first:
+      213: -9106093655776616271
+    second: Red Asha Standby 32x32 (3 Rows)_7
+  - first:
+      213: 5174897062419598104
+    second: Red Asha Standby 32x32 (3 Rows)_8
+  - first:
+      213: -7022674335363190634
+    second: Red Asha Standby 32x32 (3 Rows)_9
+  - first:
+      213: -1066495755318629649
+    second: Red Asha Standby 32x32 (3 Rows)_10
+  - first:
+      213: 7346843583150371225
+    second: Red Asha Standby 32x32 (3 Rows)_11
+  - first:
+      213: 7755769028294536967
+    second: Red Asha Standby 32x32 (3 Rows)_12
+  - first:
+      213: 5811805010431805887
+    second: Red Asha Standby 32x32 (3 Rows)_13
+  - first:
+      213: 5526667319858352329
+    second: Red Asha Standby 32x32 (3 Rows)_14
+  - first:
+      213: -6559403363547024242
+    second: Red Asha Standby 32x32 (3 Rows)_15
+  - first:
+      213: 8806068909829757230
+    second: Red Asha Standby 32x32 (3 Rows)_16
+  - first:
+      213: -4370766316341362877
+    second: Red Asha Standby 32x32 (3 Rows)_17
+  - first:
+      213: -9023160647822952851
+    second: Red Asha Standby 32x32 (3 Rows)_18
+  - first:
+      213: 6414913862193069795
+    second: Red Asha Standby 32x32 (3 Rows)_19
+  - first:
+      213: -5372115295747081922
+    second: Red Asha Standby 32x32 (3 Rows)_20
+  - first:
+      213: -5943748645999903466
+    second: Red Asha Standby 32x32 (3 Rows)_21
+  - first:
+      213: -6671706239880673363
+    second: Red Asha Standby 32x32 (3 Rows)_22
+  - first:
+      213: -4681878109210994478
+    second: Red Asha Standby 32x32 (3 Rows)_23
+  - first:
+      213: -159786249094554200
+    second: Red Asha Standby 32x32 (3 Rows)_24
+  - first:
+      213: -7748003823036282488
+    second: Red Asha Standby 32x32 (3 Rows)_25
+  - first:
+      213: -5587316500173223900
+    second: Red Asha Standby 32x32 (3 Rows)_26
+  - first:
+      213: 9186874336081404861
+    second: Red Asha Standby 32x32 (3 Rows)_27
+  - first:
+      213: 354422199678952401
+    second: Red Asha Standby 32x32 (3 Rows)_28
+  - first:
+      213: -1512470965090888823
+    second: Red Asha Standby 32x32 (3 Rows)_29
+  - first:
+      213: 4848222985048251283
+    second: Red Asha Standby 32x32 (3 Rows)_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7eeb685319c45c0800000000000000
+      internalID: -4229846290927786072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9e808d84a44f540800000000000000
+      internalID: 5040735559656991231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6dd22a19eaf4140800000000000000
+      internalID: 4706172076139861679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57de09d491db332a0800000000000000
+      internalID: -6758850699379806859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5a3ee66bc1ffd70800000000000000
+      internalID: 9079006943672247792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd32a5009b371bf0800000000000000
+      internalID: -353748555969446445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a605e36f73c2c9b60800000000000000
+      internalID: 7754121277291253866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b02ff3f018a0a180800000000000000
+      internalID: -9106093655776616271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b8bb2e57de0d740800000000000000
+      internalID: 5174897062419598104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690bc6356e27a8e90800000000000000
+      internalID: -7022674335363190634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea65c5d2cb0331f0800000000000000
+      internalID: -1066495755318629649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991390a405b35f560800000000000000
+      internalID: 7346843583150371225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fe873e6d602ab60800000000000000
+      internalID: 7755769028294536967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb98f9e5ddda7a050800000000000000
+      internalID: 5811805010431805887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0dae755aaa2bc40800000000000000
+      internalID: 5526667319858352329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84f641e46158f4a0800000000000000
+      internalID: -6559403363547024242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2993065401753a70800000000000000
+      internalID: 8806068909829757230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ffa3e413be753c0800000000000000
+      internalID: -4370766316341362877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66ba33923b47c280800000000000000
+      internalID: -9023160647822952851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee3fb48b2a560950800000000000000
+      internalID: 6414913862193069795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e397d88e9996275b0800000000000000
+      internalID: -5372115295747081922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d77f80910938da0800000000000000
+      internalID: -5943748645999903466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7c726e5865963a0800000000000000
+      internalID: -6671706239880673363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d81dc25aa0a60fb0800000000000000
+      internalID: -4681878109210994478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad1ab6c04358cdf0800000000000000
+      internalID: -159786249094554200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889cd89d29f897490800000000000000
+      internalID: -7748003823036282488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4280f77fe3dd572b0800000000000000
+      internalID: -5587316500173223900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3e846d8855e7f70800000000000000
+      internalID: 9186874336081404861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d36060ec192be400800000000000000
+      internalID: 354422199678952401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Asha Standby 32x32 (3 Rows)_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3305149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9835aa0bbaf920be0800000000000000
+      internalID: -1512470965090888823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4bca1b73eccb39845810945b4a5c51e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.33051490783691409},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Red Asha Standby 32x32 (3 Rows)_0: -4229846290927786072
+      Red Asha Standby 32x32 (3 Rows)_1: 5040735559656991231
+      Red Asha Standby 32x32 (3 Rows)_10: -1066495755318629649
+      Red Asha Standby 32x32 (3 Rows)_11: 7346843583150371225
+      Red Asha Standby 32x32 (3 Rows)_12: 7755769028294536967
+      Red Asha Standby 32x32 (3 Rows)_13: 5811805010431805887
+      Red Asha Standby 32x32 (3 Rows)_14: 5526667319858352329
+      Red Asha Standby 32x32 (3 Rows)_15: -6559403363547024242
+      Red Asha Standby 32x32 (3 Rows)_16: 8806068909829757230
+      Red Asha Standby 32x32 (3 Rows)_17: -4370766316341362877
+      Red Asha Standby 32x32 (3 Rows)_18: -9023160647822952851
+      Red Asha Standby 32x32 (3 Rows)_19: 6414913862193069795
+      Red Asha Standby 32x32 (3 Rows)_2: 4706172076139861679
+      Red Asha Standby 32x32 (3 Rows)_20: -5372115295747081922
+      Red Asha Standby 32x32 (3 Rows)_21: -5943748645999903466
+      Red Asha Standby 32x32 (3 Rows)_22: -6671706239880673363
+      Red Asha Standby 32x32 (3 Rows)_23: -4681878109210994478
+      Red Asha Standby 32x32 (3 Rows)_24: -159786249094554200
+      Red Asha Standby 32x32 (3 Rows)_25: -7748003823036282488
+      Red Asha Standby 32x32 (3 Rows)_26: -5587316500173223900
+      Red Asha Standby 32x32 (3 Rows)_27: 9186874336081404861
+      Red Asha Standby 32x32 (3 Rows)_28: 354422199678952401
+      Red Asha Standby 32x32 (3 Rows)_29: -1512470965090888823
+      Red Asha Standby 32x32 (3 Rows)_3: -6758850699379806859
+      Red Asha Standby 32x32 (3 Rows)_4: 9079006943672247792
+      Red Asha Standby 32x32 (3 Rows)_5: -353748555969446445
+      Red Asha Standby 32x32 (3 Rows)_6: 7754121277291253866
+      Red Asha Standby 32x32 (3 Rows)_7: -9106093655776616271
+      Red Asha Standby 32x32 (3 Rows)_8: 5174897062419598104
+      Red Asha Standby 32x32 (3 Rows)_9: -7022674335363190634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
