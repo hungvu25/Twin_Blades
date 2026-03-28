@@ -1,91 +1,128 @@
 # Twin Blades (Unity + Mirror)
 
-Twin Blades la du an game 2D top-down co-op su dung Mirror Networking.
-Gameplay chinh: di chuyen, chien dau voi quai Skeleton, nhat loot, nang cap vu khi, chuyen scene qua cua, va hoi sinh khi het mau.
+Twin Blades là game 2D top-down co-op sử dụng **Unity** và **Mirror Networking**.  
+Gameplay tập trung vào di chuyển, chiến đấu với quái Skeleton, nhặt loot, nâng cấp vũ khí, chuyển scene qua cửa, và hồi sinh sau khi hết máu.
+
+---
+
+## Gameplay Preview
+
+![Gameplay - Map va UI](https://github.com/user-attachments/assets/33612639-02c6-4b41-ab95-7cdb1f414ec3)
+
+![Gameplay - Combat voi quai](https://github.com/user-attachments/assets/7125f1ae-228a-4f30-874c-8ea78b6b0191)
+
+![Gameplay - Loot sau khi ha quai](https://github.com/user-attachments/assets/eaafb126-90c1-45eb-8e81-4e5d03b61562)
+
+---
+
+## Noi Bat
+
+- Multiplayer theo mô hình **server-authoritative** với Mirror.
+- Nhân vật có thể **di chuyển, chạy nhanh, dùng skill và tấn công bằng vũ khí**.
+- Quái có AI: **tìm người chơi gần nhất, truy đuổi, tấn công, nhận sát thương và rơi loot khi chết**.
+- Loot gồm:
+  - **Stackable items**
+  - **Vũ khí random stat / effect**
+- Inventory được **đồng bộ qua mạng bằng SyncList**.
+- Chuyển map đồng bộ toàn room qua `ServerChangeScene`.
+
+---
+
+## Muc Luc
+
+1. [Tong Quan Tinh Nang](#1-tong-quan-tinh-nang)  
+2. [Cau Truc Thu Muc Chinh](#2-cau-truc-thu-muc-chinh)  
+3. [Dieu Khien Mac Dinh](#3-dieu-khien-mac-dinh)  
+4. [Luong Choi Co Ban](#4-luong-choi-co-ban)  
+5. [Networking (Mirror)](#5-networking-mirror)  
+6. [Setup Bat Buoc Trong Unity](#6-setup-bat-buoc-trong-unity)  
+7. [Loot va Vu Khi Random](#7-loot-va-vu-khi-random)  
+
+---
 
 ## 1. Tong Quan Tinh Nang
 
-- Multiplayer theo mo hinh server-authoritative (Mirror).
-- Nhan vat co di chuyen, chay nhanh, tan cong ky nang va tan cong vu khi.
-- Quai co AI: tim nguoi choi gan nhat, truy duoi, tan cong, nhan sat thuong, roi loot khi chet.
-- Loot gom do stackable va vu khi random stat/effect.
-- Inventory dong bo qua mang (SyncList).
-- Chuyen map dong bo toan room qua `ServerChangeScene`.
+- Multiplayer theo mô hình server-authoritative (Mirror).
+- Nhân vật có di chuyển, chạy nhanh, tấn công kỹ năng và tấn công vũ khí.
+- Quái có AI: tìm người chơi gần nhất, truy đuổi, tấn công, nhận sát thương, rơi loot khi chết.
+- Loot gồm đồ stackable và vũ khí random stat / effect.
+- Inventory đồng bộ qua mạng bằng `SyncList`.
+- Chuyển map đồng bộ toàn room qua `ServerChangeScene`.
 
 ## 2. Cau Truc Thu Muc Chinh
 
 - `Project/Features/Player`: movement, combat, stats, inventory, network state.
-- `Project/Features/Monster`: AI quai, animation, spawner, HP bar.
+- `Project/Features/Monster`: AI quái, animation, spawner, HP bar.
 - `Project/Features/Loot`: loot table, generator, world loot.
-- `Project/Features/Items`: item definition + item database.
-- `Project/Features/Environment/Props/Door`: tuong tac cua, chuyen scene, fader.
+- `Project/Features/Items`: item definition và item database.
+- `Project/Features/Environment/Props/Door`: tương tác cửa, chuyển scene, fader.
 
 ## 3. Dieu Khien Mac Dinh
 
 ### Di Chuyen
 
-- `W/A/S/D`: di chuyen.
-- `Left Shift` hoac `Right Shift`: chay nhanh.
+- `W / A / S / D`: di chuyển
+- `Left Shift` hoặc `Right Shift`: chạy nhanh
 
 ### Chien Dau
 
-- `Space`: normal skill attack.
-- `E` (giu >= 0,2s): charge attack.
-- `R`: full attack.
-- `J` hoac `Left Mouse`: tan cong vu khi dang equip.
+- `Space`: normal skill attack
+- `E` (giữ >= 0.2s): charge attack
+- `R`: full attack
+- `J` hoặc `Left Mouse`: tấn công bằng vũ khí đang equip
 
 ### Tuong Tac
 
-- `F`: nhat loot gan nhat trong tam.
-- `E`: tuong tac cua de chuyen scene (khi dang o trigger).
+- `F`: nhặt loot gần nhất trong tầm
+- `E`: tương tác cửa để chuyển scene (khi đang ở trigger)
 
 ### Debug Inventory (neu dang bat)
 
-- `F6`: add item test.
-- `F7`: use item test.
-- `F8`: remove item test.
-- `F9`: in inventory local ra Console.
+- `F6`: add item test
+- `F7`: use item test
+- `F8`: remove item test
+- `F9`: in inventory local ra Console
 
 ## 4. Luong Choi Co Ban
 
-1. Host va client vao game.
-2. Player spawn vao map.
-3. Di chuyen, gap quai trong vung spawn.
-4. Tieu diet quai de roi loot.
-5. Nhat loot de vao inventory/weapon inventory.
-6. Qua cua de chuyen scene cho ca room.
-7. Khi chet: player hoi sinh sau khoang tre (mac dinh 2s).
+1. Host và client vào game.
+2. Player spawn vào map.
+3. Di chuyển và gặp quái trong vùng spawn.
+4. Tiêu diệt quái để rơi loot.
+5. Nhặt loot để đưa vào inventory / weapon inventory.
+6. Qua cửa để chuyển scene cho cả room.
+7. Khi chết, player hồi sinh sau khoảng trễ mặc định `2s`.
 
 ## 5. Networking (Mirror)
 
-- Script quan ly network manager: `Project/Features/Player/Scripts/CustomNetworkManager.cs`.
-- Dong bo state nhan vat (move/run/alive/facing): `PlayerNetworkState`.
-- Dong bo inventory:
-  - Stackable: `NetworkInventory` (SyncList InventoryEntry).
-  - Vu khi unique: `PlayerWeaponInventory` (SyncList WeaponInstanceData).
-- AI quai chay tren server; sat thuong va loot xu ly server-side.
+- Script quản lý network manager: `Project/Features/Player/Scripts/CustomNetworkManager.cs`
+- Đồng bộ state nhân vật (move / run / alive / facing): `PlayerNetworkState`
+- Đồng bộ inventory:
+  - Stackable: `NetworkInventory` (`SyncList<InventoryEntry>`)
+  - Vũ khí unique: `PlayerWeaponInventory` (`SyncList<WeaponInstanceData>`)
+- AI quái chạy trên server; sát thương và loot được xử lý server-side.
 
 ## 6. Setup Bat Buoc Trong Unity
 
 ### 6.1 Scene Build Settings
 
-Dam bao scene can dung da duoc them vao Build Settings, toi thieu:
+Đảm bảo các scene cần dùng đã được thêm vào **Build Settings**, tối thiểu:
 
 - `BattleScene`
 - `Scenes/SampleScene`
 
-Neu scene khong co trong Build Settings, `ServerChangeScene` se that bai.
+Nếu scene không có trong Build Settings, `ServerChangeScene` sẽ thất bại.
 
 ### 6.2 Tag va Layer
 
-Can co cac tag/layer duoc scripts su dung:
+Cần có các tag / layer được script sử dụng:
 
-- Tag: `Player`, `BaseSpawn`.
-- Layer: nen co layer rieng cho Player/Monster de hit detection ro rang.
+- Tag: `Player`, `BaseSpawn`
+- Layer: nên có layer riêng cho `Player` và `Monster` để hit detection rõ ràng
 
 ### 6.3 Player Prefab
 
-Player prefab nen co day du:
+Player prefab nên có đầy đủ:
 
 - `NetworkIdentity`
 - `Rigidbody2D`
@@ -101,7 +138,7 @@ Player prefab nen co day du:
 
 ### 6.4 Monster Prefab
 
-Monster prefab nen co:
+Monster prefab nên có:
 
 - `NetworkIdentity`
 - `Rigidbody2D`
@@ -109,29 +146,25 @@ Monster prefab nen co:
 - `MonsterAI`
 - `MonsterAnimationGeneric`
 - `MonsterHealthBarUI`
-- `MonsterLootTable` (asset tham chieu)
-- `WorldLoot` prefab tham chieu trong `MonsterAI`
+- `MonsterLootTable` (asset tham chiếu)
+- `WorldLoot` prefab tham chiếu trong `MonsterAI`
 
 ### 6.5 Item Database
 
-Tao asset ItemDatabase va dat dung duong dan resource neu ban dung tu dong load:
+Tạo asset `ItemDatabase` và đặt đúng đường dẫn resource nếu dùng tự động load:
 
-- Resource path mac dinh: `Resources/ItemDatabase`
+- Default resource path: `Resources/ItemDatabase`
 
 ## 7. Loot va Vu Khi Random
 
-He thong loot sinh tu `MonsterLootTable`:
+Hệ thống loot sinh từ `MonsterLootTable`:
 
-- Drop stackable: theo `dropChance`, `minAmount`, `maxAmount`.
-- Drop vu khi: random bonus attack, attack speed %, effect chance.
-- Weapon instance co `instanceId` rieng (GUID) de tranh trung lap.
-
-## 8. Hinh Anh Gameplay
-
-Dat 3 anh vao thu muc `README-assets` voi dung ten file ben duoi de README hien thi:
-
-![Gameplay - Map va UI](README-assets/gameplay-01.png)
-
-![Gameplay - Combat voi quai](README-assets/gameplay-02.png)
-
-![Gameplay - Loot sau khi ha quai](README-assets/gameplay-03.png)
+- Drop stackable theo:
+  - `dropChance`
+  - `minAmount`
+  - `maxAmount`
+- Drop vũ khí với chỉ số random:
+  - bonus attack
+  - attack speed %
+  - effect chance
+- Mỗi weapon instance có `instanceId` riêng (`GUID`) để tránh trùng lặp
