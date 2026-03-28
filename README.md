@@ -130,8 +130,11 @@ He thong loot sinh tu `MonsterLootTable`:
 
 Dat 3 anh vao thu muc `README-assets` voi dung ten file ben duoi de README hien thi:
 
-![Gameplay - Map va UI](README-assets/gameplay-01.png)
+![Gameplay - Map va UI](<img width="1923" height="1083" alt="image" src="https://github.com/user-attachments/assets/33612639-02c6-4b41-ab95-7cdb1f414ec3" />
+)
 
-![Gameplay - Combat voi quai](README-assets/gameplay-02.png)
+![Gameplay - Combat voi quai](<img width="1923" height="1083" alt="image" src="https://github.com/user-attachments/assets/7125f1ae-228a-4f30-874c-8ea78b6b0191" />
+)
 
-![Gameplay - Loot sau khi ha quai](README-assets/gameplay-03.png)
+![Gameplay - Loot sau khi ha quai](<img width="1923" height="1083" alt="image" src="https://github.com/user-attachments/assets/eaafb126-90c1-45eb-8e81-4e5d03b61562" />
+)
