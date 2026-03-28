@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: d0c1762bb53525047b905f8277d16acf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1536157977449505149
+    second: '!$Door5_0'
+  - first:
+      213: 1688109816668221143
+    second: '!$Door5_1'
+  - first:
+      213: 5721375911934969225
+    second: '!$Door5_2'
+  - first:
+      213: 5530639192162017300
+    second: '!$Door5_3'
+  - first:
+      213: -753754732372575840
+    second: '!$Door5_4'
+  - first:
+      213: 3766319647394378878
+    second: '!$Door5_5'
+  - first:
+      213: -4039430455214075837
+    second: '!$Door5_6'
+  - first:
+      213: 3229890184152253924
+    second: '!$Door5_7'
+  - first:
+      213: 6718346989011795363
+    second: '!$Door5_8'
+  - first:
+      213: -8988665481564731115
+    second: '!$Door5_9'
+  - first:
+      213: 2937541495548732275
+    second: '!$Door5_10'
+  - first:
+      213: 475649558373649285
+    second: '!$Door5_11'
+  - first:
+      213: 2186529120532726500
+    second: '!$Door5_12'
+  - first:
+      213: -9089277534417968209
+    second: '!$Door5_13'
+  - first:
+      213: -1384665894702032966
+    second: '!$Door5_14'
+  - first:
+      213: -1470787805711755386
+    second: '!$Door5_15'
+  - first:
+      213: -2105979210472562749
+    second: '!$Door5_16'
+  - first:
+      213: -2769308177552475884
+    second: '!$Door5_17'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$Door5_0'
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 452
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e5d3b55787eaae0800000000000000
+      internalID: -1536157977449505149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_1'
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 452
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7deeb5c2fee5d6710800000000000000
+      internalID: 1688109816668221143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_2'
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 452
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9854c592419666f40800000000000000
+      internalID: 5721375911934969225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_3'
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 435
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410abadea07c0cc40800000000000000
+      internalID: 5530639192162017300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_4'
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 435
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9b92180102a85f0800000000000000
+      internalID: -753754732372575840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_5'
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 435
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e743485b3c7a44430800000000000000
+      internalID: 3766319647394378878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_6'
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 310
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340121e176f01f7c0800000000000000
+      internalID: -4039430455214075837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_7'
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 293
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e58ae18200e2dc20800000000000000
+      internalID: 3229890184152253924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_8'
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 310
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adfcddbdfc5c3d50800000000000000
+      internalID: 6718346989011795363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_9'
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 293
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519c4865e58d14380800000000000000
+      internalID: -8988665481564731115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_10'
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 310
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373e62b2d6e34c820800000000000000
+      internalID: 2937541495548732275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_11'
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 293
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bce64d0c8d99600800000000000000
+      internalID: 475649558373649285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_12'
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 151
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2866086ac185e10800000000000000
+      internalID: 2186529120532726500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_13'
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 151
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa324105d366cd180800000000000000
+      internalID: -9089277534417968209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_14'
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 151
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7dfad74bda8cce0800000000000000
+      internalID: -1384665894702032966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_15'
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3
+        width: 12
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68713948846b69be0800000000000000
+      internalID: -1470787805711755386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_16'
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3
+        width: 12
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfdc67e01f06c2e0800000000000000
+      internalID: -2105979210472562749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Door5_17'
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3
+        width: 12
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419766b82e07199d0800000000000000
+      internalID: -2769308177552475884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$Door5_0': -1536157977449505149
+      '!$Door5_1': 1688109816668221143
+      '!$Door5_10': 2937541495548732275
+      '!$Door5_11': 475649558373649285
+      '!$Door5_12': 2186529120532726500
+      '!$Door5_13': -9089277534417968209
+      '!$Door5_14': -1384665894702032966
+      '!$Door5_15': -1470787805711755386
+      '!$Door5_16': -2105979210472562749
+      '!$Door5_17': -2769308177552475884
+      '!$Door5_2': 5721375911934969225
+      '!$Door5_3': 5530639192162017300
+      '!$Door5_4': -753754732372575840
+      '!$Door5_5': 3766319647394378878
+      '!$Door5_6': -4039430455214075837
+      '!$Door5_7': 3229890184152253924
+      '!$Door5_8': 6718346989011795363
+      '!$Door5_9': -8988665481564731115
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

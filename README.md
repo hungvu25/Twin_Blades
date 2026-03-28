@@ -125,3 +125,13 @@ He thong loot sinh tu `MonsterLootTable`:
 - Drop stackable: theo `dropChance`, `minAmount`, `maxAmount`.
 - Drop vu khi: random bonus attack, attack speed %, effect chance.
 - Weapon instance co `instanceId` rieng (GUID) de tranh trung lap.
+
+## 8. Hinh Anh Gameplay
+
+Dat 3 anh vao thu muc `README-assets` voi dung ten file ben duoi de README hien thi:
+
+![Gameplay - Map va UI](README-assets/gameplay-01.png)
+
+![Gameplay - Combat voi quai](README-assets/gameplay-02.png)
+
+![Gameplay - Loot sau khi ha quai](README-assets/gameplay-03.png)

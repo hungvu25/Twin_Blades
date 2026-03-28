@@ -2786,9 +2786,9 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 34
+  field of view: 60
   orthographic: 1
-  orthographic size: 3.6953125
+  orthographic size: 6.0022635
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -2813,7 +2813,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -1.0753818, y: -0.3920998, z: -11.813664}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2985,7 +2985,7 @@ MonoBehaviour:
   - {fileID: 7012107539606936326, guid: 304f236938e999048ba6d88e69077d44, type: 3}
   - {fileID: 4202932864264996454, guid: 5090e9765a02c3f418358b12ac7f726f, type: 3}
   - {fileID: 916479256845114191, guid: 20850b2125f2e4a4a90513857fd46116, type: 3}
-  - {fileID: 5359281725986253275, guid: 359a141efeb11ff46aa975d0c24a85f3, type: 3}
+  - {fileID: 1929960496226422032, guid: 359a141efeb11ff46aa975d0c24a85f3, type: 3}
   exceptionsDisconnect: 1
   snapshotSettings:
     bufferTimeMultiplier: 2

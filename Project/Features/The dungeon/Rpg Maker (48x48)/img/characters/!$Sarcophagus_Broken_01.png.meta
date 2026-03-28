@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 7047154f85d5e6441a289e44a63f62e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7954142423966140308
+    second: '!$Sarcophagus_Broken_01_0'
+  - first:
+      213: -3282958942731846693
+    second: '!$Sarcophagus_Broken_01_1'
+  - first:
+      213: -5132379077286558259
+    second: '!$Sarcophagus_Broken_01_2'
+  - first:
+      213: 6935101046690141977
+    second: '!$Sarcophagus_Broken_01_3'
+  - first:
+      213: -1415726851945114077
+    second: '!$Sarcophagus_Broken_01_4'
+  - first:
+      213: 7424371727718069318
+    second: '!$Sarcophagus_Broken_01_5'
+  - first:
+      213: -8528155032660480691
+    second: '!$Sarcophagus_Broken_01_6'
+  - first:
+      213: 2764651769246023582
+    second: '!$Sarcophagus_Broken_01_7'
+  - first:
+      213: 271803416272507818
+    second: '!$Sarcophagus_Broken_01_8'
+  - first:
+      213: -7317169081044322728
+    second: '!$Sarcophagus_Broken_01_9'
+  - first:
+      213: 3078780258609010010
+    second: '!$Sarcophagus_Broken_01_10'
+  - first:
+      213: 2395654907034108735
+    second: '!$Sarcophagus_Broken_01_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$Sarcophagus_Broken_01_0'
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6832a6bb953d9190800000000000000
+      internalID: -7954142423966140308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Sarcophagus_Broken_01_1'
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbb6464c369072d0800000000000000
+      internalID: -3282958942731846693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Sarcophagus_Broken_01_2'
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 287
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc500b5fb6026c8b0800000000000000
+      internalID: -5132379077286558259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Sarcophagus_Broken_01_3'
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 191
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917d76188ad6e3060800000000000000
+      internalID: 6935101046690141977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Sarcophagus_Broken_01_4'
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 191
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32654d2dde35a5ce0800000000000000
+      internalID: -1415726851945114077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Sarcophagus_Broken_01_5'
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 191
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644b61710caa80760800000000000000
+      internalID: 7424371727718069318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Sarcophagus_Broken_01_6'
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 95
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4defc09e28e5a980800000000000000
+      internalID: -8528155032660480691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Sarcophagus_Broken_01_7'
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 95
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f7099e2240e5620800000000000000
+      internalID: 2764651769246023582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Sarcophagus_Broken_01_8'
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 95
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa319ab54c3a5c300800000000000000
+      internalID: 271803416272507818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Sarcophagus_Broken_01_9'
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856b1e22d71347a90800000000000000
+      internalID: -7317169081044322728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Sarcophagus_Broken_01_10'
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5510e745560aba20800000000000000
+      internalID: 3078780258609010010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Sarcophagus_Broken_01_11'
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33803af1731f3120800000000000000
+      internalID: 2395654907034108735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$Sarcophagus_Broken_01_0': -7954142423966140308
+      '!$Sarcophagus_Broken_01_1': -3282958942731846693
+      '!$Sarcophagus_Broken_01_10': 3078780258609010010
+      '!$Sarcophagus_Broken_01_11': 2395654907034108735
+      '!$Sarcophagus_Broken_01_2': -5132379077286558259
+      '!$Sarcophagus_Broken_01_3': 6935101046690141977
+      '!$Sarcophagus_Broken_01_4': -1415726851945114077
+      '!$Sarcophagus_Broken_01_5': 7424371727718069318
+      '!$Sarcophagus_Broken_01_6': -8528155032660480691
+      '!$Sarcophagus_Broken_01_7': 2764651769246023582
+      '!$Sarcophagus_Broken_01_8': 271803416272507818
+      '!$Sarcophagus_Broken_01_9': -7317169081044322728
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
